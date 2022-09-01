@@ -1,1 +1,1 @@
-export const getResponseFromAPI = () => new Promise(() => {});
+export default const getResponseFromAPI = () => new Promise(() => {});

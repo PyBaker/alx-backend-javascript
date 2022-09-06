@@ -1,2 +1,1 @@
-This is a project on Javascript ES6 data manipulation
-
+﻿This is a project on ES6_data_manipulation
